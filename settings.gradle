@@ -1,0 +1,5 @@
+rootProject.name = "kdynlib"
+
+include(":kdynlib")
+include(":kdynlib-kotlin-plugin")
+include(":kdynlib-sample")

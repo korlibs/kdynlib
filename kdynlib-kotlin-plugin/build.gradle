@@ -1,0 +1,5 @@
+apply plugin: "org.jetbrains.kotlin.jvm"
+
+dependencies {
+    api("com.soywiz.kirpter:kirpter-api:0.1.0-alpha")
+}
